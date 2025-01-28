@@ -47,3 +47,9 @@ It will ask for:
 - Number of rows, columns, and bins used in training
 
 The accuracy will be disp
+
+## 📄 Report
+
+There is a detailed report available in the root directory of the repository, which contains an organigram outlining the entire process of the project. You can view or download it from the following link:
+
+📂 **[Project Report (Organigram)](./report.pdf)**
